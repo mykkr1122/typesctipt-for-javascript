@@ -14,4 +14,5 @@ let twoDimansionalArray: number[][] = [
     [150, 300]
 ];
 
+// 共用型(1つの配列に複数の型が入る)
 let arrays: (string | number | boolean)[] = [1, false, 'Japan'];
